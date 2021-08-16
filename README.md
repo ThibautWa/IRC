@@ -1,5 +1,5 @@
 # IRC
-Création d'un IRC à l'aide de la librairiee socket.io
+Création d'un IRC à l'aide de la librairie socket.io
 
 -1 lancer l'app :
     - node server/server.js   //démarrage du serveur
